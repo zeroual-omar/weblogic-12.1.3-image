@@ -1,0 +1,1 @@
+# weblogic-12.1.3-image
